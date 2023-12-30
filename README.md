@@ -5,6 +5,11 @@ Periodic Tables is a restaurant reservation booking and table management system.
 
 #
 
+## Live application URL
+`https://restaurant-reservation-13lo.onrender.com`
+
+#
+
 ## Technologies used
 _Back end:_
 1. Node
